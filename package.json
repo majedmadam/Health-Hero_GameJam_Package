@@ -1,0 +1,54 @@
+{
+    "name": "com.healthhero.gamejam",
+    "version": "1.0.0",
+    "displayName": "Health-Hero Game Jam",
+    "description": "This package is using the Moralis package.",
+    "homepage": "https://moralis.io",
+    "unity": "2020.3",
+    "hideInEditor": false,
+    "license": "MIT License",
+    "documentationUrl": "https://olivine-ceramic-d94.notion.site/Game-Jam-documentation-e2162c1eb2ef402483e112fa8da6fa74",
+    "changelogUrl": "https://github.com/MoralisWeb3/web3-unity-sdk/blob/main/CHANGELOG.md",
+    "licensesUrl": "https://github.com/MoralisWeb3/web3-unity-sdk/blob/main/LICENSE.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MoralisWeb3/web3-unity-sdk.git"
+    },
+    "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.0.2"
+    },
+    "samples": [
+        {
+            "displayName": "AuthenticationKit",
+            "description": "Demonstrates the Moralis AuthenticationKit to connect Unity to Moralis and Web3.",
+            "path": "Samples~/AuthenticationKit"
+        },
+        {
+            "displayName": "NFT Kit",
+            "description": "Pulls the W-NFTs from a user wallet",
+            "path": "Samples~/NFT Kit"
+        }
+    ],
+    "keywords": [
+        "Moralis",
+        "Web3",
+        "Unity",
+        "Blockchain",
+        "Ethereum",
+        "Binance",
+        "Polygon",
+        "Avalanche",
+        "Fantom",
+        "Solana",
+        "EVM",
+        "NFT",
+        "ERC-20",
+        "ERC-721",
+        "ERC-1155"
+    ],
+    "author": {
+        "name": "Moralis Web3",
+        "email": "unity@moralis.io",
+        "url": "https://www.moralis.io"
+    }
+}
