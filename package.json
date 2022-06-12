@@ -24,9 +24,9 @@
             "path": "Samples~/AuthenticationKit"
         },
         {
-            "displayName": "NFT Kit",
+            "displayName": "NFT Kit.unitypackage",
             "description": "Pulls the W-NFTs from a user wallet",
-            "path": "Samples~/NFT Kit"
+            "path": "Samples~/NFT Kit/NFT Kit.unitypackage"
         }
     ],
     "keywords": [
