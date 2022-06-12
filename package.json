@@ -19,14 +19,9 @@
     },
     "samples": [
         {
-            "displayName": "AuthenticationKit",
-            "description": "Demonstrates the Moralis AuthenticationKit to connect Unity to Moralis and Web3.",
-            "path": "Samples~/AuthenticationKit"
-        },
-        {
-            "displayName": "NFT Kit.unitypackage",
-            "description": "Pulls the W-NFTs from a user wallet",
-            "path": "Samples~/NFT Kit/NFT Kit.unitypackage"
+            "displayName": "Game Jam Kit",
+            "description": "Health-Hero Game Jam Kit, Wallet Authentication, and NFT getter",
+            "path": "Samples~/Game Jam Kit"
         }
     ],
     "keywords": [
